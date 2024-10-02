@@ -1,4 +1,13 @@
 theme: jekyll-theme-minimal
 title: STEM Education Initiative's homepage
-description: Short description!
+description: We are a nonprofit established in 2024 and focused on promoting STEM careers for college students in New York! 
 
+
+author:
+  location : "New York, USA"
+  email	: "stem.edu.init@gmail.com"
+ 
+
+navigation:
+  - {title: "Our Mission", file: "mission.md"}
+  - {title: "About Us", file: "about.md"}

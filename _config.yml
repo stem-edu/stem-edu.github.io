@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: STEM Education Initiative
 description: We are a nonprofit established in 2024, focused on promoting STEM careers for college students in New York! 
 
+navigation:
+  - {file: "about.md", title: "About Us"}

@@ -4,7 +4,11 @@ title: "Courses and Materials"
 permalink: /materials
 ---
 ### **Online Materials**
-- **Introduction to Data Science**
+- **[Introduction to Data Science](https://github.com/stem-edu/intro_to_data_science)**
+<figure>
+	<img src="images/pca.png">
+	<figcaption> PCA and Cholesky Decomposition</figcaption>
+</figure>
 
 - **Introduction to Probability and Statistics**
 <figure>

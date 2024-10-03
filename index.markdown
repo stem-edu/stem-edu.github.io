@@ -5,7 +5,7 @@
 layout: home
 ---
 **Our Mission**
-- Provide open-sourced accessible material in STEM courses to students of all backgrounds
+- Provide open-source and accessible material in STEM courses to students of all backgrounds
 - Raise awareness for ways to improve equity in scientific instruction
 - Encourage youths to pursue STEM fields
 
@@ -15,5 +15,5 @@ layout: home
 - Bi-weekly virtual mentorship program
 
 **How you can help?**
-- [Send](stem.edu.init@gmail.com) us suggestions!
-- [Volunteer](stem.edu.init@gmail.com) with us!
+- [Send](mailto:stem.edu.init@gmail.com) us suggestions!
+- [Volunteer](mailto:stem.edu.init@gmail.com) with us!

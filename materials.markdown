@@ -10,7 +10,7 @@ permalink: /materials
 	<figcaption> PCA and Cholesky Decomposition</figcaption>
 </figure>
 
-- **Introduction to Probability and Statistics**
+- **[Introduction to Probability and Statistics](https://github.com/stem-edu/intro_to_prob_stats)**
 <figure>
 	<img src='images/CEV_plot.png'>
 	<figcaption> Geometric Brownian Motion and Monte Carlo simulations</figcaption>

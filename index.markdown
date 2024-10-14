@@ -15,5 +15,6 @@ layout: home
 - Bi-weekly virtual mentorship program
 
 <h2 style="font-weight: bold"> How you can help? </h2>
+*We are not soliciting donations at this point but there are other ways of supporting us:*
 - [Send](mailto:stem.edu.init@gmail.com) us suggestions!
 - [Volunteer](mailto:stem.edu.init@gmail.com) with us!
